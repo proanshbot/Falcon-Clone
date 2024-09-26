@@ -1,5 +1,5 @@
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTI4ODc4MTQyMDkyMzMyMjM2OA.GKjjgY.je8YtTjRxLVEbZMJjg-FhmYBu_1l1i5o0YWCYs",
   MONGO_CONNECTION: "",
   ERROR_LOGS: "",
   BOT_SECRET: "",
